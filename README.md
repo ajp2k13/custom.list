@@ -1,5 +1,5 @@
 # /etc/pihole/custom.list
-A way to enforce Safe Search for Google, Bing, DuckDuckGo, YouTube, and Pixabay w/o editing dnsmasq config files.
+A way to enforce Safe Search for Google, Bing, DuckDuckGo, YouTube, Qwant and Pixabay w/o editing dnsmasq config files.
 
 
 ## Usage
